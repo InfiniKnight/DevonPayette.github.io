@@ -1,0 +1,65 @@
+#pageTitle {
+  color: #ffbb00;
+  font-family: "Comic Sans MS";
+  text-align: center;
+}
+
+table {
+  color: #fdfcff;
+  font-family: "Arial Black";
+  border-style: double;
+  border-width: 20;
+}
+
+ol {
+  font-family: "Arial";
+  border-style: dashed;
+  text-align: center;
+}
+
+ul {
+  font-family: "Impact";
+  border-style: dotted;
+  text-align: center;
+}
+
+li {
+  color: red;
+}
+
+p {
+  font-family: "Impact";
+  color: #87faa0;
+  text-align: center;
+}
+
+h3 {
+  font-family: "Lucida Sans Unicode";
+  color: #349148;
+  text-align: center;
+}
+
+h4 {
+  font-family: fantasy;
+  color: #107385;
+  text-align: center;
+}
+
+h5 {
+  font-family: "Verdana";
+  color: #2b3b3d;
+  text-align: center;
+}
+
+.photo {
+  border-style: groove;
+  border-radius: 5px;
+}
+
+.professional {
+  background-color: red;
+}
+
+.personal {
+  background-color: slateblue;
+}
